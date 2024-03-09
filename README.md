@@ -2,6 +2,8 @@
 
 ![Screenshot 2024-03-09 162245](https://github.com/Abhi5647/DAZN_Assignment/assets/109646207/6e42e24c-a914-4354-8817-cfe2ce675256)
 
+![Screenshot 2024-03-09 163300](https://github.com/Abhi5647/DAZN_Assignment/assets/109646207/d6d4bfdd-cb9b-4b95-8e31-be6c4176bcc5)
+
 This is a simple Express API for managing movies. It includes CRUD (Create, Read, Update, Delete) operations for movies and implements an authentication middleware to restrict access to certain routes.
 
 ## Installation
